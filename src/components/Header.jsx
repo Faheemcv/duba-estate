@@ -9,7 +9,7 @@ export default function Header() {
         <div className='flex justify-between items-center max-w-6xl mx-auto p-3 '>
           <Link to='/'>
             <h1 className='font-bold text-sm sm:text-xl flex flex-wrap'>
-                
+                <i className="fa-solid fa-igloo me-2 text-white"></i>
                 <span className='text-white'>REAL</span>
                 <span className='text-slate-700'>Estate</span>
             </h1>
